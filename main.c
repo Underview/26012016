@@ -27,5 +27,7 @@ int main() {
         item.distanza = distanza;
         ins(item,data);
     }
+
+    printf("luigi");
     return 0;
 }
