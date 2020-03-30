@@ -28,7 +28,7 @@ int main() {
         ins(item,data);
     }
     printf("hamid bogos");
-
+    printf("trevor");
     printf("luigi");
     return 0;
 }
