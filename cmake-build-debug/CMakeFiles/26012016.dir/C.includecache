@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hanan/OneDrive/Desktop/ingegneria informatica/Algoritmi e Programmazione avanzata/Lab/lab04/26012016/data.c
+data.h
+C:/Users/hanan/OneDrive/Desktop/ingegneria informatica/Algoritmi e Programmazione avanzata/Lab/lab04/26012016/data.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/hanan/OneDrive/Desktop/ingegneria informatica/Algoritmi e Programmazione avanzata/Lab/lab04/26012016/data.h
+
